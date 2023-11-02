@@ -228,15 +228,6 @@ body::selection {
   margin-bottom: 10vh;
   max-height: 100vh;
 }
-#aboutme {
-  display: flex;
-  position: relative;
-  justify-content: space-between;
-  padding: 100px;
-  background-color: #25262a;
-  min-height: 95vh;
-  align-items: center;
-}
 
 .developer-intro {
   display: flex;
@@ -325,6 +316,15 @@ body::selection {
   
 }
 
+#aboutme {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  padding: 100px;
+  background-color: #25262a;
+  min-height: 95vh;
+  align-items: center;
+}
 
 #introduction {
   display: flex;
