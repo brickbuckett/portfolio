@@ -401,11 +401,6 @@ body::selection {
   background-color: #00b840;
 }
 
-.design-card.active li {
-  color: #000000;
-  font-weight: 700;
-}
-
 .design-card.active p {
   color: #000000;
   font-weight: 700;
@@ -429,12 +424,6 @@ body::selection {
 
 .design-card:hover div h3 {
   font-weight: 600;
-}
-
-.design-card li {
-  font-size: 14px;
-  font-weight: 600;
-  color: #7c7d81;
 }
 
 .design-card p {
