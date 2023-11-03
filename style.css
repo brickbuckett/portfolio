@@ -46,6 +46,13 @@ p {
   margin: 15px 0 20px 0;
 }
 
+li {
+  font-size: 16px;
+  font-weight: 400;
+  color: #fefefe;
+  margin: 15px 0 20px 0;
+}
+
 .section-p1 {
   padding: 40px 80px;
 }
@@ -428,18 +435,6 @@ body::selection {
 }
 
 .design-card p {
-  font-size: 14px;
-  font-weight: 600;
-  color: #7c7d81;
-}
-
-.design-card li::marker {
-  font-size: 14px;
-  font-weight: 600;
-  color: #7c7d81;
-}
-
-.design-card:hover li::marker {
   font-size: 14px;
   font-weight: 600;
   color: #7c7d81;
