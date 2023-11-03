@@ -433,6 +433,12 @@ body::selection {
   color: #7c7d81;
 }
 
+.design-card li {
+  font-size: 14px;
+  font-weight: 600;
+  color: #7c7d81;
+}
+
 .design-card a {
   color: #fff;
   text-decoration: none;
